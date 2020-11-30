@@ -4,3 +4,6 @@ webpack.mix.js
 tailwind.config.js
 package.json
 package-lock.json
+/lib/db_config.php
+mix-manifest.json
+/.idea

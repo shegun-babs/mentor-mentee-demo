@@ -2,7 +2,7 @@
 require_once __DIR__. "/lib/functions.php";
 require_once __DIR__.'/lib/db_config.php';
 $regType = $_GET['type'] ?? null;
-
+$validator = null;
 //process form submit
 if ( array_key_exists('submitted', $_POST) && !is_null($regType))
 {
@@ -162,7 +162,7 @@ $mentors = mentors("id, fullname");
                     </p>
                     <div class="relative mb-4">
                         <label for="name" class="leading-7 text-sm text-gray-600">Full Name</label>
-                        <input type="text" id="name" name="fullname" value="<?=$_POST[$name = 'fullname']?>"
+                        <input type="text" id="name" name="fullname" value="<?=old($name = 'fullname')?>"
                                class="w-full text-xs bg-white rounded border border-gray-300 focus:border-indigo-500
                        outline-none text-gray-700 py-0.5 px-3 leading-8 transition-colors duration-200 ease-in-out">
                         <?php

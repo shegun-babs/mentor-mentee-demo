@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dd39bd3-aa4b-4407-965a-9a12f6b2e2a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mentor-mentee.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mentor-mentee.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/DBManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/DBManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Validator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/db_config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mentee.php" beforeDir="false" afterPath="$PROJECT_DIR$/mentee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mentees.php" beforeDir="false" afterPath="$PROJECT_DIR$/mentees.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mentor.php" beforeDir="false" afterPath="$PROJECT_DIR$/mentor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mentors.php" beforeDir="false" afterPath="$PROJECT_DIR$/mentors.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

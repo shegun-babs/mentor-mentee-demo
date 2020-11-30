@@ -134,6 +134,9 @@ class Validator
 
     public function validated()
     {
-        return $this->submitted;
+        foreach ($this->submitted as $key => $value){
+            $out[$key] = is_array($value)? $value : trim($value);
+        }
+        return $out;
     }
 }

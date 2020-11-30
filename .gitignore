@@ -1,0 +1,6 @@
+/node_modules
+/resources
+webpack.mix.js
+tailwind.config.js
+package.json
+package-lock.json

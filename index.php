@@ -14,7 +14,7 @@ require_once __DIR__. '/lib/functions.php';
 <div class="bg-gray-50 min-h-screen text-sm flex flex-col items-center justify-start">
     <div class="navbar w-full bg-gray-600 h-12 flex flex-row items-center justify-end">
         <a href="index.php" class="px-3 mx-2 text-white hover:text-gray-200">Home</a>
-        <a href="#" class="px-3 mx-2 text-white hover:text-gray-200">Mentors</a>
+        <a href="mentor.php" class="px-3 mx-2 text-white hover:text-gray-200">Mentors</a>
         <a href="mentees.php" class="px-2 mx-2 text-white hover:text-gray-200">Mentees</a>
     </div>
     <div class="flex flex-row items-center justify-center w-full h-40">
